@@ -215,3 +215,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .idea/
+
+# Lecture 5
+lecture_5/venv/
+lecture_5/.idea/
+lecture_5/__pycache__/
